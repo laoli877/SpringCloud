@@ -25,6 +25,7 @@ public class WechatController {
 
         if(WechatUtils.checkSignature(timestamp,nonce,signature)){
             write.print(echostr);
+            write.print("============配置成功============");
         }else{
             write.print("============配置失败============");
         }
