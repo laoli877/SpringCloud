@@ -34,4 +34,5 @@ public class WechatController {
         System.out.println("++++++++++++++++++++=");
         return "Hello World";
     }
+
 }
