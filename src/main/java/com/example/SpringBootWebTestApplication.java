@@ -10,7 +10,7 @@ import java.util.*;
 public class SpringBootWebTestApplication {
 
     public static void main(String[] args) {
-        //分支
+        //分支uat
         SpringApplication.run(SpringBootWebTestApplication.class, args);
     }
 
