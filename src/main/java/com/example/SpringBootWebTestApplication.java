@@ -10,6 +10,7 @@ import java.util.*;
 public class SpringBootWebTestApplication {
 
     public static void main(String[] args) {
+        //test
         SpringApplication.run(SpringBootWebTestApplication.class, args);
     }
 
